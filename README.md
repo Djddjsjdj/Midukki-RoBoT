@@ -146,3 +146,4 @@ How To Deploy 👉
 </h1>
 
 <img align="center" width="50%" src="https://gpvc.arturio.dev/Midukki-RoboT" alt="Profile views" />
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
