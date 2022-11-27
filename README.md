@@ -92,9 +92,9 @@ Read this before you start messing up with your edits
 
 ##### Must Use Optional Variables
 
-• `API_WEB_URL` : Ads Web Url eg: htts://github.com
+• `API_WEB_URL` : https://du-link.in/member/dashboard
 
-• `API_WEB_API` : Ads Web Api
+• `API_WEB_API` : a7aa89f30208a499d3a49f15eef21f2dba2b2e3b
 
 • `DONATION_LINK` : enter your gpay, pypal etc.. link
 
