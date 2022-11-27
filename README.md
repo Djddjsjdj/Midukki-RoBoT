@@ -122,7 +122,7 @@ How To Deploy 👉
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/Djddjsjdj/Midukki-RoBoT">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...>
 </a>
 </p>
 </details>
@@ -131,7 +131,7 @@ How To Deploy 👉
 <p>
 <br>
 <a href="https://railway.app?referralCode=PR0FESS0R-99">
-  <img src="https://railway.app/button.svg" alt="Deploy">
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...>
 </a>
 </p>
 </details>
@@ -146,6 +146,6 @@ How To Deploy 👉
 </h1>
 
 <img align="center" width="50%" src="https://gpvc.arturio.dev/Midukki-RoboT" alt="Profile views" />
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Djddjsjdj/Midukki-RoBoT
 
-&branch=professor-99&name=albinzbot2)
+
+
